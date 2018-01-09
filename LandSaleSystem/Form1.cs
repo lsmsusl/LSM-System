@@ -62,7 +62,7 @@ namespace LandSaleSystem
                 }
             else if(Textbox1.Text=="" || Textbox2.Text=="")
                 {
-                    Label2.Text = "Please fill all fields";
+                    Label2.Text = "Please fill all fields..!";
                 }
             else
                 {
